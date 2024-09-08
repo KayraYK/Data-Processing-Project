@@ -2,9 +2,7 @@
 
 '''
 pre_process.py
-  Author(s): Kayra Kazanci (1276539)
-  Project: Milestone 2
-  Date of Last Update: March 12, 2024
+  Author(s): Kayra Kazanci
 
   Functional Summary
       pre_process.py takes in a data file and a name for a new file, filters it accordingly, and makes a new
